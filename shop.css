@@ -227,7 +227,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(to right bottom, rgba(42, 212, 234, 0.7), rgba(30, 149, 170, 0.7)), url(images/classic\ album\ cover.webp); height: 550px;
+    background-image: linear-gradient(to right bottom, rgba(42, 212, 234, 0.7), rgba(30, 149, 170, 0.7)), url(classic\ album\ cover.webp); height: 550px;
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
